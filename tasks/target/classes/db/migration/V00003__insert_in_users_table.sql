@@ -1,0 +1,3 @@
+INSERT INTO users (username, password, email, role) VALUES ('test', '$2a$10$7EQSIsMnXrslR62DVu1BxOqgPWqAHkK/WMQQDE1A0BKwN5hLqeRZm', 'test@gmail.com', 'USER'),
+                                                           ('test2', '$2a$10$bmhjbIRUjwNWrH96.G.W4.Nss4uQj.tqbLZ3o.5eJxHmQ2tnWEUJ6', 'test2@gmail.com', 'USER'),
+                                                           ('test3', '$2a$10$pn4jMaRKS6Jq3wwDmzGFm.iT54Upj3e4UiYVmIY62ybKZi5EfoUYC', 'test3@gmail.com', 'USER')

@@ -1,0 +1,1 @@
+INSERT INTO tasks (title, description, status, priority, author_id, assignee_id) VALUES ('title', 'title', 'PENDING', 'LOW', 1, 2);
